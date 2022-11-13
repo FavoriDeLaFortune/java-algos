@@ -1,0 +1,14 @@
+5
+5 1 11 2 8
+Expected: 4
+Result: 4
+
+4
+1 8 8 8
+Expected: 6
+Result: 6
+
+2
+7 6
+Expected: 0
+Result: 0

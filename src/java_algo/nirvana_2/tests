@@ -1,0 +1,11 @@
+390
+Expected: 216
+Result: 216
+
+7
+Expected: 7
+Result: 7
+
+1000000000
+Expected: 387420489
+Result: 387420489
